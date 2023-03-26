@@ -6,9 +6,7 @@ hi i am a front-end developer👨🏼‍🎓 i have been doing this for 4 years 
 
 =======================================================================================
 
-skills from good to bad
-
-[][][][][][][][][][][][]
+# skills from good to bad
 
 HTML5 CSS Java, Good
 
